@@ -1,0 +1,2 @@
+D,M,N,__pyience_timestamp__,acc_amm,acc_orig,corr,cossim,lut_work_const,method,muls,ncodebooks,nlookups,normalized_mse,problem,raw_mse,secs,task_id,trial,y_mean,y_std,yhat_mean,yhat_std
+512,10,10000,2023-07-01T19_13_50,0.9314,0.9359,0.9577448,0.95775324,1,MithralPQ,5120000,32,3200000,0.09439414,softmax,1.2773615,0.025154435001240927,CIFAR-10 Softmax,0,0.045806058,3.6786156,0.041673876,3.125807
